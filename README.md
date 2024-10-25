@@ -30,11 +30,14 @@
   <a href="https://dev.to/dev.jeanaimeiraguha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.jeanaimeiraguha" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/jeanaime-iraguha" target="_blank">
+  <a href="https://linkedin.com/in/iraguha-jean-aime-77a13b318" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeanaime-iraguha" height="30" width="40" />
   </a>
   <a href="https://fb.com/aimeswitch" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aimeswitch" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_handle" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -66,4 +69,4 @@
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://sculpin.io/" target="_blank"><img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed
+</p>
