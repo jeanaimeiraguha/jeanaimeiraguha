@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JEAN AIME IRAGUHA</h1>
+<h1 align="center">Hi there 👋, I'm Jean  Aime IRAGUHA</h1>
 <h3 align="center">A passionate frontend developer from Kigali, Rwanda</h3>
 
 <p align="left">
