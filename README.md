@@ -1,16 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Jean  Aime IRAGUHA</h1>
-<h3 align="center">A passionate frontend developer from Kigali, Rwanda</h3>
-<h2>Am <span> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+learning+;Blockchain;Graphic+design;Relational+Database+And+Non+Relational;Devops" alt="Typing SVG" /></a>
+
+<h3>Am <span> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+learning+;Blockchain;Graphic+design;Relational+Database+And+Non+Relational;Devops" alt="Typing SVG" /></a>
 <p align=""></span></h2>
 
 
 
 
 
-- 🔭 I’m currently working on **Database Design**
-- 🌱 I’m learning **Laravel, React, Django**
-- 👯 I’m looking to collaborate on **DevOps and Flutter**
-- 🤝 I need help with **MERN Stack**
+
 - 👨‍💻 All of my projects are available at [my portfolio](https://iraguha-jeanaime.netlify.app)
 - 📝 I regularly write articles on [Coding](Coding)
 - 💬 Ask me about **Laravel, Machine Learning, DevOps**
