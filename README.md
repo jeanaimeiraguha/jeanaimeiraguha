@@ -9,7 +9,7 @@
 
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://iraguha-jeanaime.netlify.app)
-- 📝 I regularly write articles on [Coding](Coding)
+
 - 💬 Ask me about **Laravel, Machine Learning, DevOps**
 - 📫 How to reach me: **jeanaimeiraguha@gmail.com**
 - ⚡ Fun fact: Graphic Design artist
