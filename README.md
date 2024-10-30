@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jean  Aime IRAGUHA</h1>
 
-<h3>Am <span> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+learning+;Blockchain;Graphic+design;Relational+Database+And+Non+Relational;Devops" alt="Typing SVG" /></a>
+<h3>Am <span> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+learning+Developer+;Python Developer;Blockchain+ Developer;Graphic+designer;Relational+Database+And+Non+Relational Developer;Devops" alt="Typing SVG" /></a>
 <p align=""></span></h2>
 
 
