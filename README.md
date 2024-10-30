@@ -2,14 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kigali, Rwanda</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeanaimeiraguha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeanaimeiraguha" alt="Trophies" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **Database Design**
 - 🌱 I’m learning **Laravel, React, Django**
