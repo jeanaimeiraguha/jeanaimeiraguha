@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [Coding](Coding)
 - 💬 Ask me about **Laravel, Machine Learning, DevOps**
 - 📫 How to reach me: **jeanaimeiraguha@gmail.com**
-- ⚡ Fun fact: I enjoy reading novels
+- ⚡ Fun fact: Graphic Design artist
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
