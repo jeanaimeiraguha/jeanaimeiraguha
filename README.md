@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jean  Aime IRAGUHA</h1>
 <h3 align="center">A passionate frontend developer from Kigali, Rwanda</h3>
-<h3 align="center"A'M</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+learning+;Blockchain;Graphic+design;Relational+Database+And+Non+Relational;Devops" alt="Typing SVG" /></a>
+
+Am <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+learning+;Blockchain;Graphic+design;Relational+Database+And+Non+Relational;Devops" alt="Typing SVG" /></a>
 <p align="left">
 
 
