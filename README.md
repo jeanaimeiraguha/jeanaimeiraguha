@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://iraguha-jeanaime.netlify.app)
 
-- 💬 Ask me about **Laravel, Machine Learning, DevOps**
+- 💬 Ask me about **Laravel, Machine Learning, System Design, Python, Relational Data and Non Relational**
 - 📫 How to reach me: **jeanaimeiraguha@gmail.com**
 - ⚡ Fun fact: Graphic Design artist
 
