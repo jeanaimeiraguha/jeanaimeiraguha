@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a UI Library**
+ 🔭 I’m currently working on **a laravel ,Python Relational Database , System Design**
  
  🌱 I’m currently learning **Flutter, Solidity, Spring Boot**
 
@@ -27,7 +27,7 @@
   <a href="mailto:jeanaimeiraguha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://discord.com/users/salim_008_73292" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> </a>
   <a href="https://iraguha-jeanaime.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -45,10 +45,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="github contribution grid" src="https://raw.githubusercontent.com/jeanaime-iraguha/jeanaime-iraguha/output/github-contribution-grid-snake-dark.svg" />
 
 
   
@@ -57,18 +53,3 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=rutaganda-salim&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-
-<h2 align="center">📈 Contribution Graph 📈</h2>
-<br>
-<div align=center>
-  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=rutaganda-salim&theme=tokyo-night" alt="Contibution Graph" />
-</div>
-
-<br/><br/>
-
-<hr/> <br/> <div align="center"> <a href='https://ko-fi.com/T6T0ZUPZR' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> </div> <br/>
