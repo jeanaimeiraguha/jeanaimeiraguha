@@ -2,7 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jean+Aime+IRAGUHA!;A+Frontend+Developer!;A+Mobile+Developer!; Python+ developer;A+System+Designer!;Relational Database+Developer;Machine+Learning+Developer">
 </h1>
 
-<img src="https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg" />
+<a href="https://pin.it/6Ml8gT7rA" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg" alt="Cryptocurrency Icons" />
+</a>
+
 
 <h3 align="center">A passionate Software developer from Rwanda </h3>
 
