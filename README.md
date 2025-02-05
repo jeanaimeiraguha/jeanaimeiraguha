@@ -11,11 +11,11 @@
 <br/>
 
 <div style="text-align: center;">
-    🔭 I’m currently working on **a Laravel, Python Relational Database, System Design**<br>
-    🌱 I’m currently learning **Flutter, Solidity, Spring Boot**<br>
-    💬 Ask me about **Next.js, Node.js, React, MongoDB, Prisma...**<br>
-    ⚡ Fun fact **Python was not named after a snake.**<br>
-    🥷 **A b👦y becoming a m🧔‍♂️n**
+    🔭 I’m currently working on ** a Laravel, Python Relational Database, System Design **<br>
+    🌱 I’m currently learning ** Flutter, Solidity, Spring Boot **<br>
+    💬 Ask me about ** Next.js, Node.js, React, MongoDB, Prisma... **<br>
+    ⚡ Fun fact ** Python was not named after a snake.**<br>
+     ** A b👦y becoming a m🧔‍♂️n **
 </div>
 
 <div style="text-align: center;"> 
