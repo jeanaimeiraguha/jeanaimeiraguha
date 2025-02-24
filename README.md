@@ -81,6 +81,9 @@
 <!-- Visitor Counter Section -->
 
 </div>
+✨ "Technology is a gateway to empowerment and solving meaningful problems."
+
+
 
 <hr/>
 
