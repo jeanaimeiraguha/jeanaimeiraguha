@@ -25,7 +25,7 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
     </a>
-    <a href="https://iraguha-jeanaime.netlify.app" target="_blank">
+    <a href="https://iraguha-jean-aime.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
 </div>
@@ -62,6 +62,8 @@
 <div style="text-align: center;">
     <p><strong>🎓 Cambridge Certificate:</strong> Certified in Python for Data Science</p>
     <p><strong>🏅 Blockchain eLearning Course:</strong> Completed an advanced-level blockchain course from Authena</p>
+    <p><strong>📜 Solidity Certificate:</strong> Completed Solidity Certification - From Beginner to Expert, Rise in Community</p>
+    <p><strong>📜 Flutter Certificate:</strong> Completed Flutter Certification from Great Learning</p>
 </div>
 
 <hr/>
@@ -86,10 +88,4 @@
 <hr/>
 
 <!-- Community Involvement Section -->
-<h2 style="text-align: center;">🌍 Community Involvement</h2>
-<div style="text-align: center;">
-    <p><strong>🔧 Open Source Contributions:</strong> Actively contributing to open source repositories, especially in the web development and machine learning domains.</p>
-    <p><strong>💬 Member of:</strong> Web3 community, Node.js, and React development groups.</p>
-</div>
-
-<hr/>
+<h2 style="text-align: center;">🌍 Com
