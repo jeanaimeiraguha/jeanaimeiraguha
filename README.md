@@ -8,7 +8,7 @@
 
 <!-- About Me Section -->
 <div style="text-align: center;">
- # 👋 Hello, I'm IRAGUHA Jean Aime — Software Engineer from Rwanda 🇷🇼  
+ 👋 Hello, I'm IRAGUHA Jean Aime — Software Engineer from Rwanda 🇷🇼  
 
 🚀 Passionate about building scalable web applications and modern digital solutions that solve real-world problems in Africa and beyond.  
 Located in **Bugesera, Kigali**, I'm driven by innovation and continuous learning.
