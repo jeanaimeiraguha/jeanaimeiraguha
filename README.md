@@ -8,11 +8,42 @@
 
 <!-- About Me Section -->
 <div style="text-align: center;">
-    <p><strong>🔭 I’m currently working on:</strong> Laravel, Python Relational Database, System Design</p>
-    <p><strong>🌱 I’m currently learning:</strong> Flutter, Solidity, Spring Boot</p>
-    <p><strong>💬 Ask me about:</strong> Next.js, Node.js, React, MongoDB, Prisma...</p>
-    <p><strong>⚡ Fun fact:</strong> Python was not named after a snake.</p>
-    <p><strong>👦 A boy becoming a 🧔‍♂️ man</strong></p>
+ # 👋 Hello, I'm IRAGUHA Jean Aime — Software Engineer from Rwanda 🇷🇼  
+
+🚀 Passionate about building scalable web applications and modern digital solutions that solve real-world problems in Africa and beyond.  
+Located in **Bugesera, Kigali**, I'm driven by innovation and continuous learning.
+
+---
+
+## 🔭 I’m currently working on:
+- **Laravel** for robust backend applications  
+- **Python with Relational Databases** for data-driven systems  
+- **System Design** to architect scalable and efficient software solutions  
+
+---
+
+## 🌱 I’m currently learning:
+- **Flutter** to build beautiful cross-platform mobile apps  
+- **Solidity** for blockchain-based decentralized applications (Web3)  
+- **Spring Boot** for building high-performance Java-based microservices  
+
+---
+
+## 💬 Ask me about:
+- **Next.js**, **React**, and **Node.js** — full-stack JavaScript development  
+- **MongoDB** and **Prisma** — modern database solutions and ORMs  
+
+---
+
+## ⚡ Fun Fact:
+> Python was not named after a snake...  
+> It was actually inspired by **"Monty Python’s Flying Circus"**, a British comedy group!
+
+---
+
+## 👦 A boy becoming a 🧔‍♂️ man  
+I'm on a mission to grow daily — in knowledge, experience, and impact.
+
 </div>
 
 <br/>
