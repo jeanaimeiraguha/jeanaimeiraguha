@@ -124,7 +124,7 @@ I'm on a mission to grow daily — in knowledge, experience, and impact.
 ## 🌍 Community Involvement
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/bef79b6fdf57ce22038b087b4b6f7ac1d8af9537655ad2e442806890f3fb9ce8/68747470733a2f2f646c2e676c69747465722d67726170686963732e636f6d2f7075622f333731342f33373134333335716237386c39317833322e676966" width="200px" style="vertical-align: middle;" />
+  
     <p>Keep working, growing, and impacting the world with meaningful projects!</p>
 </p>
 
