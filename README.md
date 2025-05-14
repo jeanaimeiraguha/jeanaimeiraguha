@@ -1,4 +1,4 @@
-# Hi There! 👋
+    <img src="https://camo.githubusercontent.com/e91c5bbb127471a139c3188465e5d20c825ffeb697cec9ae85b97ea87dc1e04e/68747470733a2f2f617a697a73656e7475726b2e636f6d2f696d616765732f68656c6c6f2d6176617461722e676966" width="200px" style="vertical-align: middle;" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jean+Aime+IRAGUHA!;A+Frontend+Developer!;A+Mobile+Developer!;Python+developer;A+System+Designer!;Relational+Database+Developer;Machine+Learning+Developer)](https://github.com/jeanaimeiraguha)
 
@@ -9,7 +9,7 @@
 ## About Me
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/e91c5bbb127471a139c3188465e5d20c825ffeb697cec9ae85b97ea87dc1e04e/68747470733a2f2f617a697a73656e7475726b2e636f6d2f696d616765732f68656c6c6f2d6176617461722e676966" width="200px" style="vertical-align: middle;" />
+
     <br />
     👋 Hello, I'm IRAGUHA Jean Aime — Software Engineer from Rwanda 🇷🇼  
     🚀 Passionate about building scalable web applications and modern digital solutions that solve real-world problems in Africa and beyond.  
