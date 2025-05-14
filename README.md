@@ -6,6 +6,15 @@
 
 ---
 
+<!-- Hero Image Section -->
+<div align="center">
+    <a href="https://camo.githubusercontent.com/e91c5bbb127471a139c3188465e5d20c825ffeb697cec9ae85b97ea87dc1e04e/68747470733a2f2f617a697a73656e7475726b2e636f6d2f696d616765732f68656c6c6f2d6176617461722e676966">
+        <img src="https://camo.githubusercontent.com/e91c5bbb127471a139c3188465e5d20c825ffeb697cec9ae85b97ea87dc1e04e/68747470733a2f2f617a697a73656e7475726b2e636f6d2f696d616765732f68656c6c6f2d6176617461722e676966" width="100%" />
+    </a>
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 Hi there! I'm **IRAGUHA Jean Aime**, a Software Engineer based in **Bugesera, Kigali**. I specialize in building scalable web and mobile applications with a passion for solving real-world problems in Africa and globally. I'm continuously learning and growing to stay at the forefront of technology.
