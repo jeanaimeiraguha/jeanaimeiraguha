@@ -20,12 +20,12 @@
 - **Laravel** for robust backend applications  
 - **Python with Relational Databases** for data-driven systems  
 - **System Design** to architect scalable and efficient software solutions  
+- **Flutter** for mobile app development  
+- **Solidity** for blockchain-based decentralized applications (Web3)  
 
 ---
 
 ## 🌱 I’m currently learning:
-- **Flutter** to build beautiful cross-platform mobile apps  
-- **Solidity** for blockchain-based decentralized applications (Web3)  
 - **Spring Boot** for building high-performance Java-based microservices  
 
 ---
@@ -118,4 +118,8 @@ I'm on a mission to grow daily — in knowledge, experience, and impact.
 <hr/>
 
 <!-- Community Involvement Section -->
-<h2 style="text-align: center;">🌍 Com</h2>
+<h2 style="text-align: center;">🌍 Community Involvement</h2>
+<div style="text-align: center;">
+    <img src="https://camo.githubusercontent.com/bef79b6fdf57ce22038b087b4b6f7ac1d8af9537655ad2e442806890f3fb9ce8/68747470733a2f2f646c2e676c69747465722d67726170686963732e636f6d2f7075622f333731342f33373134333335716237386c39317833322e676966" width="200px" style="vertical-align: middle;" />
+    <p>Keep working, growing, and impacting the world with meaningful projects!</p>
+</div>
