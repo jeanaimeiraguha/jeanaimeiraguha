@@ -8,6 +8,8 @@
 
 <!-- About Me Section -->
 <div style="text-align: center;">
+
+        <img src="https://azizsenturk.com/images/hello-avatar.gif" width="200px"  style="vertical-align: middle;" />
  👋 Hello, I'm IRAGUHA Jean Aime — Software Engineer from Rwanda 🇷🇼  
 
 🚀 Passionate about building scalable web applications and modern digital solutions that solve real-world problems in Africa and beyond.  
