@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=80&duration=3000&pause=1000&lines=Hello+There!+👋;I'm+Jean+Aime+IRAGUHA;Frontend+Developer;Mobile+Developer;Python+Developer;System+Designer;Database+Developer;Machine+Learning+Enthusiast)](https://github.com/jeanaimeiraguha)
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=80&duration=3000&pause=1000&lines=Hello+There!+👋;I'm+Jean+Aime+IRAGUHA;Frontend+Developer;Mobile+Developer;Python+Developer;System+Designer;Database+Developer;Machine+Learning+Enthusiast)](https://github.com/jeanaimeiraguha)
 
 
 ### A passionate Software Developer from Rwanda 🇷🇼
