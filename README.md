@@ -8,56 +8,74 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&center=true&vCenter=true&width=750&height=70&duration=2500&pause=800&color=0A88FF&lines=Hello+there!+👋;I'm+Jean+Aime+IRAGUHA;Fullstack+Developer+%7C+Mobile+Developer;Python+Developer+%7C+System+Designer;Blockchain+%26+Web3+Enthusiast;Passionate+About+African+Tech+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&center=true&vCenter=true&width=800&height=80&duration=2200&pause=700&color=0A88FF&lines=Hello+there!;I'm+Jean+Aime+IRAGUHA;Fullstack+%26+Mobile+Developer;Python+Developer+%26+System+Designer;Blockchain+%26+Web3+Enthusiast;Building+Impactful+Solutions+from+Rwanda" />
 
+  <!-- Profile Meta -->
   <br/>
-
-  <!-- Profile Views & Badges -->
   <img src="https://komarev.com/ghpvc/?username=jeanaimeiraguha&label=Profile%20Views&color=0A88FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/jeanaimeiraguha?label=Followers&style=flat-square&color=00C9A7" alt="Followers" />
   <img src="https://img.shields.io/github/stars/jeanaimeiraguha?affiliations=OWNER&style=flat-square&color=FFC947" alt="Stars" />
 
-  <br/><br/>
-
   <!-- Quick Navigation -->
+  <br/><br/>
   <p>
     <a href="#-about-me">About</a> •
     <a href="#-tech-stack--skills">Tech Stack</a> •
     <a href="#-featured-projects">Projects</a> •
     <a href="#-achievements--certifications">Achievements</a> •
     <a href="#-github-stats--activity">Stats</a> •
+    <a href="#-extras">Extras</a> •
     <a href="#-connect-with-me">Contact</a>
   </p>
 </div>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" />
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
 - 🇷🇼 **Software Developer from Bugesera, Kigali, Rwanda**
 - I build **web, mobile, and backend systems** that solve real problems in Africa and beyond.
 - I love:
-  - ⚙️ **System design** & clean architecture  
-  - 🚀 Performance, scalability, and developer experience  
-  - 📊 Data-driven apps & well-structured APIs  
-- 🔭 Currently working with: **Laravel, Python, Flutter, System Design, Solidity (Web3)**  
-- 🌱 Currently learning: **Spring Boot & distributed systems**
+  - System design & clean architecture  
+  - Performance, scalability, and developer experience  
+  - Data‑driven apps & well-structured APIs  
+- 🔭 Working with: **Laravel, Python, Flutter, System Design, Solidity (Web3)**  
+- 🌱 Learning: **Spring Boot, microservices, distributed systems**
 
 <details>
   <summary><b>✨ Fun Fact (click to expand)</b></summary>
   <br/>
-  Python was not named after a snake 🐍 – it was named after  
+  Python was not named after a snake – it was named after  
   <b>"Monty Python’s Flying Circus"</b>, a British comedy group!
 </details>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
 
 ---
 
 ## 🧠 Tech Stack & Skills
 
 <details open>
-  <summary><b>💻 Core Tech Stack</b> (click to collapse)</summary>
+  <summary><b>💻 Core Tech Stack (click to collapse)</b></summary>
+  <br/>
+
+  <div align="center">
+
+  <!-- Animated Skill Icons (skillicons.dev) -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,laravel,python,flutter,solidity,postgres,mysql,mongodb,prisma,git,github,linux&perline=8" />
+
+  </div>
+
   <br/>
 
   <div align="center">
@@ -89,7 +107,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-  ### 🛠 Tools & DevOps
+  ### 🛠 Tools & Dev
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -105,7 +123,7 @@
 
   - Spring Boot & Java-based **microservices**
   - **Advanced system design** – scalability, reliability, distributed patterns
-  - Deeper **Web3** – smart contract patterns, security, gas optimization
+  - Deeper **Web3** – smart contract security, optimization, best practices
 </details>
 
 <details>
@@ -117,6 +135,11 @@
   - **Database modeling** with SQL, MongoDB, Prisma
   - **Flutter** for cross‑platform mobile apps
 </details>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
 
 ---
 
@@ -130,7 +153,7 @@
 
   - 🔗 Repo: [School Management System](https://github.com/jeanaimeiraguha/school-management-system)  
   - 🛠 Tech: **Laravel**, **MySQL**, **Blade / HTML / CSS / JS**  
-  - 🎯 Focus: Role-based access, data consistency, easy school operations
+  - 🎯 Focus: Role-based access control, data consistency, easy school operations
 
 </details>
 
@@ -142,7 +165,7 @@
 
   - 🔗 Repo: [Rwanda Driving License System](https://github.com/jeanaimeiraguha/rdl-web-app)  
   - 🛠 Tech: **Laravel**, **MySQL**, **Bootstrap**  
-  - 🎯 Focus: Streamlining application flows & backend validation
+  - 🎯 Focus: Streamlined application flows & backend validation
 
 </details>
 
@@ -158,6 +181,11 @@
 
 </details>
 
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
+
 ---
 
 ## 🏆 Achievements & Certifications
@@ -172,6 +200,11 @@
   - 📜 **Flutter Certification** – Great Learning  
 
 </details>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
 
 ---
 
@@ -217,6 +250,32 @@
   <img src="https://github.com/jeanaimeiraguha/jeanaimeiraguha/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 -->
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
+
+---
+
+## 🎨 Extras
+
+<div align="center">
+  <!-- Animated Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Optional extra GIF (change link if you want another style) -->
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="280" alt="Developer working" />
+</div>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A88FF,100:00C9A7&height=4&section=footer&reversal=true" width="80%"/>
+</p>
 
 ---
 
