@@ -71,7 +71,7 @@
 
   <div align="center">
 
-  <!-- Animated Skill Icons (skillicons.dev) -->
+  <!-- Animated Skill Icons -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,laravel,python,flutter,solidity,postgres,mysql,mongodb,prisma,git,github,linux&perline=8" />
 
   </div>
@@ -220,9 +220,23 @@
     <br/><br/>
     <!-- Streak -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanaimeiraguha&theme=radical&hide_border=false" alt="Jean Aime GitHub Streak" />
-    <br/><br/>
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanaimeiraguha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+
+  <br/>
+
+  <div align="center">
+
+  <!-- Custom Language Usage (you control these numbers) -->
+  <h4>🔥 Language Usage (custom view)</h4>
+
+  <!-- JavaScript 95% -->
+  <img src="https://progress-bar.dev/95/?title=JavaScript&width=500&color=F7DF1E&suffix=%25" />
+
+  <!-- Other languages (adjust as you like) -->
+  <img src="https://progress-bar.dev/70/?title=Python&width=500&color=3776AB&suffix=%25" />
+  <img src="https://progress-bar.dev/55/?title=Dart%20%28Flutter%29&width=500&color=02569B&suffix=%25" />
+  <img src="https://progress-bar.dev/40/?title=PHP%20%28Laravel%29&width=500&color=777BB3&suffix=%25" />
+
   </div>
 
 </details>
@@ -268,7 +282,7 @@
 <br/>
 
 <div align="center">
-  <!-- Optional extra GIF (change link if you want another style) -->
+  <!-- Extra GIF -->
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="280" alt="Developer working" />
 </div>
 
@@ -292,7 +306,7 @@
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="mailto:jeanaimeiraguha@gmail.com">
+  <a href="mailto=jeanaimeiraguha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://iraguha-jean-aime.vercel.app/" target="_blank">
